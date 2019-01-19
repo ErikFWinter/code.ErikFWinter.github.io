@@ -16,36 +16,36 @@ theme = "aerial"
 
 [[params.social]]
   medium = "Github"
-  icon = "github"
+  icon = "fab fa-github"
   link = "https://github.com/ErikFWinter"
   target = "_top"
 
 [[params.social]]
   medium = "Stackoverflow"
-  icon = "stack-overflow"
+  icon = "fab fa-stack-overflow"
   link = "https://stackoverflow.com/users/1414318/erikfwinter"
   target = "_top"
 
 [[params.social]]
   medium = "Twitter"
-  icon = "twitter"
+  icon = "fab fa-twitter"
   link = "https://twitter.com/ErikFWinter"
   target = "_top"
 
 [[params.social]]
   medium = "Email"
-  icon = "envelope-o"
+  icon = "far fa-envelope"
   link = "javascript:document.location='mail'+'to:'+atob('ZXJpay5mLndpbnRlckBnbWFpbC5jb20=');"
   target = ""
 
 [[params.social]]
   medium = "linkedin"
-  icon = "linkedin"
+  icon = "fab fa-linkedin-in"
   link = "https://www.linkedin.com/in/erikfwinter/"
   target = "_top"
 
 [[params.social]]
   medium = "xing"
-  icon = "xing"
+  icon = "fab fa-xing"
   link = "https://www.xing.com/profile/ErikFelix_Winter/"
   target = "_top"
