@@ -1,0 +1,6 @@
+[submodule "themes/aerial"]
+	path = themes/aerial
+	url = https://github.com/ErikFWinter/aerial.git
+[submodule "output"]
+	path = output
+	url = https://github.com/ErikFWinter/ErikFWinter.github.io.git
