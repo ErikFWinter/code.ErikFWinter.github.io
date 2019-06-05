@@ -2,6 +2,7 @@ baseURL = "https://erikfwinter.github.io/"
 languageCode = "en-en"
 title = "Hi, I'm Erik-F Winter!"
 theme = "aerial"
+publishDir = "public"
 
 [params]
   name = "Erik-F Winter"
